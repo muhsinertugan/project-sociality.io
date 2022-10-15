@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shares</title>
+    <defs>
+        <rect x="68" y="0" width="20" height="14" id="rect-1"></rect>
+    </defs>
+    <g id="CaseStudy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-848.000000, -1023.000000)" id="Page">
+            <g id="Card4" transform="translate(719.000000, 621.000000)">
+                <g id="shares" transform="translate(61.000000, 402.000000)">
+                    <image x="68" y="0" width="20" height="14" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFKADAAQAAAABAAAADgAAAACYjX/eAAABa0lEQVQ4Ec2Uvy8EQRTHb/f2rIhKeY1SI+LQSRT+gbX2R4soJBol0VAJjVpHfbubqBUKClEcolPp/GhERORiY9fnbe7OZM/lcioveZk33+9735nZebOFgmJBEOxEUbSsQD2HWrMCITdN04D5Jz7juu5lGIYV4rVmTocxLZVKG5ZlPQufCVI4RnyBDwiI8AM+6fv+E9wh0KLgnSxJkgq5N8Ib1Wp1iPEYz8QE1DStjIdwsySv6Lp+xwL9wqlGzpY6l9goFosHJIvoOz4oIPaGj1Kw7XneJvGugHlj9+2CjuP4kshuxtnJtcQsMmzb9qvEvZrea0G3/P8vaHQ7Qp6X5ueyVlWcb3/OBX2Bn7QaW70UiD3apa4WgdXB9gVD4JRhWuWJ7+Gnft0hbbSOQC4/ExrhBS2xuAtfw8uNpA/GOZr7pSVomuZjHMdHEO1KjSrheKITtNoVR5xnfob3IbwAdvuT9sdIfiTyTdXyb3UIfa5UIJA6AAAAAElFTkSuQmCC"></image>
+                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

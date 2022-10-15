@@ -1,0 +1,221 @@
+nav{
+    
+    width: 17.125rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.company-logo-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #31363B;
+    min-height: 3rem;
+
+}
+
+.company-logo{
+    width: 9rem;
+}
+
+.nav-bar-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #393D42;
+    flex: 1;
+
+}
+
+.accounts-bar{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 4.125rem;
+    background-color: #2A2F33;
+    gap: 1rem;
+    padding-top: 1rem;
+}
+
+.account{
+    outline: inherit;
+    background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+
+    opacity: 0.25;
+}
+
+.account.selected{
+ opacity: 1;
+}
+
+.account.selected::before{
+    content: "";
+    background-color: #F55661;
+    width: 0.5rem;
+    position: absolute;
+    left: -0.25rem;
+    height: 37px;
+    border-radius: 10px;
+   }
+
+
+.notification,.nav-btn{
+    position: relative;
+    min-width: 13rem;
+    padding: 1.25rem 0 ;
+    cursor: pointer;
+
+    transition: background-color 300ms ease-in, color 300ms ease-in;
+
+    
+}
+
+
+.collapse-btn{
+    outline: inherit;
+    background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+    position: absolute;
+    top: 1.25rem;
+    right: 1rem;
+    width: 1rem;
+    height: 1rem;
+
+}
+
+.collapse-btn::before{
+    content: "";
+    position: absolute;
+    top: 7px;
+    right: 0;
+    width: 14px;
+    height: 1px;
+    background: #1D1F22;
+    z-index: 10;
+    transform: rotate(90deg);
+    transition: 0.5s; 
+}
+.collapse-btn::after{
+    content: "";
+    position: absolute;
+    top: 7px;
+    right: 0;
+    width: 14px;
+    height: 1px;
+    background: #1D1F22;
+    z-index: 10;
+    transition: 0.5s; 
+}
+
+.collapse-btn.selected::before{
+    transform: rotate(0deg);
+}
+
+
+
+.notification{
+    padding-bottom: 1.5rem;
+}
+
+
+
+.notification-details,.nav-btn-details{
+    position: relative;
+    min-width: 13rem;
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+    padding-left: 1.25rem;
+}
+
+.nav-btn.selected{
+    transition: background-color 300ms ease-in, color 300ms ease-in;
+    background-color: #F55661;
+    padding-bottom: 0;
+}
+
+.nav-btn.selected>.nav-btn-details{
+    padding-bottom: 1.25rem;
+}
+
+.notification-name,.nav-btn-name{
+    color: #FEFEFE;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0;
+}
+
+.notif-num{
+    position: absolute;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FEFEFE;
+    border: 1px solid #73D9C7;
+    padding: 0.125rem 0.5rem;
+    border-radius: 5px;
+    right: 0.5rem;
+}
+
+.nav-btn-options{
+
+    background-color: #2d2e32;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    padding: 0.25rem 0 0 0 ;
+    visibility: visible;
+    max-height: 100vh;
+
+    transition: max-height 250ms cubic-bezier(0.21, 0.17, 0.57, 0.9);
+
+}
+
+.nav-btn-options.hidden{
+    visibility: hidden;
+    max-height: 0;
+    padding: 0;
+    transition: max-height 250ms cubic-bezier(0.22, 0.01, 1, 1);
+
+}
+
+.nav-btn-options::before{
+    content: "";
+    width: 0; 
+    height: 0; 
+    border-left: 0.5rem solid transparent;
+    border-right: 0.5rem solid transparent;
+    border-top: 0.5rem solid #F55661;
+    position: relative;
+    top: 0.25rem;
+    left: 1.25rem;
+    z-index: 1;
+}
+
+.nav-btn-options>ul{
+    margin: 0;
+}
+
+.option, .option.selected{
+    padding-bottom: 1.25rem;
+
+}
+
+.option.selected{
+    color: #F55661;
+}

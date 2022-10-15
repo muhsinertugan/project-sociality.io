@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cancel</title>
+    <defs>
+        <rect x="0" y="1" width="18" height="18" id="rect-1"></rect>
+    </defs>
+    <g id="CaseStudy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g transform="translate(-577.000000, -147.000000)" id="Page">
+            <g id="Card1" transform="translate(319.000000, 119.000000)">
+                <g id="cancel" transform="translate(258.000000, 27.000000)">
+                    <image x="0" y="1" width="18" height="18" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEqADAAQAAAABAAAAEgAAAACaqbJVAAACHElEQVQ4EY2Uv0sjURDHs6tXWCkkJCeoKDZKwCuOO/CwCf4AQUQMxsYftX/BwVWxsD2uOkh5nBZmEwUbC9EUgoViY4iCjaAWRhLBzsIk9/ludsMaDLcPZmfe/Pi+2Xkzzwg0rVwu114ulxdqtdo8pm+GYYQdlyLyCfrdYDBoxWKxV2+o4d2k0+mvpmn+QTcEPRJ4UK1Wb9ERX+tFNwF1Q1folxOJxDmyvRpA2Wx2FmcL7RP8e6FQ2Ewmk1XHz2Yc1AZogs1PqIuDFuPx+J6MNpCTyTH7a4zTGO9lbLUsy/qB3wb2FzIbU2aGU5M8Sp3w5X8gmUxmDd/f0BnUD5Wo2YhdWDZDgKz4BcH3tFKpTMFnoE1djqo4DxXz+fwWgC2Xm4kLwu88h0KhbQIehGEi6IoPmgvrRXwPRHanBY6IHzX5hEG88wZ65VYgHp8b5IgyCqhPPIaG6AMkQBJ1DKKKbPob0Y7gB0SuJNEHK+rX1PbjagMHI+AXhLrqsiaFIWEXIVIqlZYF5BdEvtFodAkWpil33Ia8AOwjoL8wrCPbfaIrVsB7i5HqwV9N+URDfjJ1hRpAlB0o16EzNZsPkH18O4ldEYZdcXtWGEAML2QzQAHnUqnUB/ZvlmrCr69yqKZ+EE5o/QVoTL8iGN7PgPxFHMZJ788h8i3cYN8Hm4SH0F0qExeEfX36JbjL+7AROIo+4tjsh02FZTQyzQ/bP/PgSUJ1PWVVAAAAAElFTkSuQmCC"></image>
+                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

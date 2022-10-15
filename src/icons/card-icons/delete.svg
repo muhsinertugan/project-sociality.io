@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="20px" viewBox="0 0 15 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>delete</title>
+    <defs>
+        <rect x="37" y="0" width="15" height="20" id="rect-1"></rect>
+    </defs>
+    <g id="CaseStudy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g transform="translate(-614.000000, -146.000000)" id="Page">
+            <g id="Card1" transform="translate(319.000000, 119.000000)">
+                <g id="delete" transform="translate(258.000000, 27.000000)">
+                    <image x="37" y="0" width="15" height="20" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAUCAYAAABSx2cSAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAD6ADAAQAAAABAAAAFAAAAAAQBn2aAAABZElEQVQ4Ee1TMUvDYBD1a2JLySBIB1HBpYskIOIfUMHRIaCgdFBcsuo/CIqLi7uCdBHBJpOLYwcHx/6ADi6iQ4boEqwk8b2PHKRQSt0cPDjeu/fumnLcp6ZK4ft+xbbtR6XUVknWFNpTFEWbnud9i2cKITqOswzgYBv5gZSYyfP8sNForEF4FlF1Op11KYBNfOEajfvg7yV9Dvod8iTLsp7oKgiCXIrfIv+2i7xCPhQJGBvbcPeQLd2Fr7+EYXg8dqQw2Yf+mOXQwmAsQttJkuSmWq3WDMNopWl6OxgMvur1+hG8gEMSFSFELKOJZV1aljWLcoGcyJqcPvskhoZFnBT/hyfdVNH3NxZmmKbZwzFsxHHMF9UnJ7ImL3wFTT8mOc9PCKuu6/Jmu0iJrhCg5rjrFfA36noY7/Qev3yGt10Df6UxKuDNo28X3jl9PYzjv8AjWEJ9gJymMSowmEJv48ZP6f8AggSGfnK0v5sAAAAASUVORK5CYII="></image>
+                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

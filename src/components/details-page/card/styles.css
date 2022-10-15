@@ -1,0 +1,148 @@
+.card-container{
+    border: 1px solid #EAF0EF;
+    display: flex;
+    width: 23rem;
+    border-radius: 7px;
+    background-color: #FFFFFF;
+}
+.sm-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3AC183;
+    border-top-left-radius: inherit;
+    border-bottom-left-radius: inherit;
+    flex: 0 0 2.5rem;
+}
+
+.sm-container.published{
+    background-color: #ACACAC;
+}
+.sm-container.scheduled{
+    background-color: #3AC183;
+}
+.sm-container.need-approval{
+    background-color: #F7BF38;
+}
+.sm-container.error{
+    background-color: #FB6450;
+}
+.sm-container.notes{
+    background-color: #67B1F2;
+}
+
+.post-container{
+    margin: 0 1.25rem;
+}
+
+.date-actions-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 1.25rem 0;
+}
+.actions{
+    display: flex;
+    gap: 1rem;
+}
+
+
+.action-btn {
+    outline: inherit;
+    background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+}
+
+
+
+.creation-date{
+    color: #ACACAC;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.content-container{
+    height: 20rem;
+    overflow: auto;
+}
+
+
+.content-message{
+    position: relative;
+    color: #959595;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 0.875rem;    
+}
+
+
+
+.visible-more.hidden{
+    display: none;
+}
+
+.more-btn{
+    outline: inherit;
+    background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+
+    color: #ACACAC;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.more-btn.hidden{
+    visibility: hidden;
+}
+
+.content-img{
+    width: 17.75rem;
+    height: 15rem;
+}
+
+.interaction-icons-container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.5rem;
+    width: 75%;
+    margin: 1.25rem 0;
+}
+
+.interaction-icon{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    outline: inherit;
+    background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+
+}
+
+.interaction-icon>p{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #444444;
+    margin: 0;
+}
+

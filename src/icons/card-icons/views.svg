@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="13px" viewBox="0 0 25 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>views</title>
+    <defs>
+        <rect x="160" y="3" width="25" height="13" id="rect-1"></rect>
+    </defs>
+    <g id="CaseStudy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g transform="translate(-541.000000, -500.000000)" id="Page">
+            <g id="Card1" transform="translate(319.000000, 119.000000)">
+                <g id="views" transform="translate(62.000000, 378.000000)">
+                    <image x="160" y="3" width="25" height="13" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAANCAYAAABcrsXuAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAGaADAAQAAAABAAAADQAAAADNk6YcAAACZ0lEQVQ4EY2UO2hTURjH772JhgxB4uQDqg6CICJCHSSKkTwGdbDtqoM6BBdBC1ZQaEs6dFFBFx1UfGyirUMd8tCgDQ42g6iLDopS2ykiGULSJNff/6ZHEo3BD/58z/P/znfPOde2+kgymdzWbDaHbNs+RNkusBn4QQMsgnfgueM4s5lM5jN2T7F7RROJxEHil1zXjaNNjYu9DOpgLdgAOnNZ/HQul5tHd4kp8oKQb4L4Bs7watUSUzwAc4FAYKFSqaxn1wOtVutrKBQq12q1Qeyj1J4Aaip5TP3ZbDb7ve1almOMeDx+hAbv8dVgCaQajcYAxWP1ev1jtVp95Pf7v9GkKC1fcXZ+IRwOb4H4DGs06Yh42PBhbE+8SWKx2HmKrqzG7qLPsfin/Gg0Cqf/DeZucAu8BvtACrxlI3sLhYLOyGKj61DXwEn5NBvN5/NXbTqO4UwTWwEpyNXkt5AfIv+EwAS5SZOAcFwxNjfMtDMmLk3uFOomWEP+ogNBGgfljv/ZgLjFN98hTfFTaSPGN3kTl4bnjvgwxZtWk3s4rLEn2YE3pgqNENdVVfUeE+v0Tb4zp0nER8wWv61kvzOJRCKhYDD4ibIgC0fBPAv3A50h51/dXiwWK+KBvPeZKCnRbWDhQ8wwWNZOyuXy7VKptEJukNwscT1GI4vUHOM8FnQ5fD7faXx9oo3gB/Zxcs9U7E0iQwKZ3sl1zBEv0G52nwVzvPwPxA5gb6XmC/YriHdi6+rrnYhc8tc76WrSrvE+n8gu4yeAqXGx//niqc+BKX4vLw2P0YbA+F36f/5dTPGCiWb6/bt+AYTRK6IWoXFfAAAAAElFTkSuQmCC"></image>
+                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

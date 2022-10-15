@@ -1,0 +1,23 @@
+
+
+
+    .soon-container {
+
+        font-family: Lato, "Segoe UI", Avenir, Ubuntu, Tahoma, Verdana, Helvetica, sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        padding: 5rem;
+    }
+
+
+
+    h1 {
+        font-size: 4em;
+        font-weight: normal;
+        text-transform: lowercase;
+        text-indent: 4rem;
+    }
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="17px" viewBox="0 0 19 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>heart</title>
+    <defs>
+        <rect x="0" y="0" width="19" height="17" id="rect-1"></rect>
+    </defs>
+    <g id="CaseStudy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g transform="translate(-780.000000, -498.000000)" id="Page">
+            <g id="heart" transform="translate(780.000000, 498.000000)">
+                <image x="0" y="0" width="19" height="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAARCAYAAAA/mJfHAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAE6ADAAQAAAABAAAAEQAAAABarwPGAAABLUlEQVQ4EaWTwS4DURhGL00I8QiWtg0bIvEyNhK8hFR4CrsmWLD1Dh6gy3ZBLFoEm64Qzpn40+nMaNPOn5w7vfe/35k70zalUW3z8QYG8AN9uIQtsDbhGl7B/hvcgrmxOmL2DV04g2M4hx58QRs+wf4p7EMLnNs/hKz2GBUZWMpWRsMyH6/Ak1xAse/cnHk96Q48gcGqarB4AAtVTdYUmteThuCj1SlfyXCRYRU+6pjIvsOKMl/iDtQp8z5qOgG/kXmF5szrSWvQgRdowizlfnPm9WS1zujjPsNGtjJ9cJ8/cHPmxyqET6xOE9p3X6UorAof/jb+JwzRI/tKJwpRXGOzdy4KJ/UiX7pGKH93T+G86iYlQXEhhL6XXfA6lyjEIfSPXkuUF94zUTyxfgGCR0koOAuodwAAAABJRU5ErkJggg=="></image>
+                <use fill="#444444" fill-rule="evenodd" xlink:href="#rect-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

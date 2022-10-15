@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>comments</title>
+    <defs>
+        <rect x="54" y="2" width="17" height="16" id="rect-1"></rect>
+    </defs>
+    <g id="CaseStudy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g transform="translate(-435.000000, -499.000000)" id="Page">
+            <g id="Card1" transform="translate(319.000000, 119.000000)">
+                <g id="comments" transform="translate(62.000000, 378.000000)">
+                    <image x="54" y="2" width="17" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEaADAAQAAAABAAAAEAAAAACz87qxAAAApUlEQVQ4EWNkYGB4BsTsQEwu+MkC1MkKxEeBeAsZpvgA9ViCDAGBM0A8C8wijZAAKrdkIk0PdtWjhmCGyzALE0agD18C8RsoxvQwRASkbgMQ9wExKIFtAuLvQCwCwqAUuweIQYrwAWmgZCMQCwHxHCDWB+LDQHwRiP8DMVEAZMkSIP4CxKuB+CcQg/INWWA6UBfIoL9ATLYhIJs7gRgUhl4gDggAACeGGI0HTyRMAAAAAElFTkSuQmCC"></image>
+                    <use fill-opacity="0" fill="#444444" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

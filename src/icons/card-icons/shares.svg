@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shares</title>
+    <defs>
+        <rect x="106" y="0" width="16" height="18" id="rect-1"></rect>
+    </defs>
+    <g id="CaseStudy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g transform="translate(-487.000000, -497.000000)" id="Page">
+            <g id="Card1" transform="translate(319.000000, 119.000000)">
+                <g id="shares" transform="translate(62.000000, 378.000000)">
+                    <image x="106" y="0" width="16" height="18" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAEKADAAQAAAABAAAAEgAAAABOlSKSAAABL0lEQVQ4EaWUu0oDQRiF1wsWpkiRRg02gimCBtIIXl4ghVba6Avoc1hZCDYJsRA0oKWo72AbUiiWgiCEVCLYCF6+A2dDMDEz6IFvzz8z/7/s3DZJ4jVDagNa9rxKR/SIkPKaMAbnsOO4hEepSNYXFJw953Z51B0he3fClH3a/hYq1PgyPMAHvMKN/QofqgyjR/AJlzALu1CHPZiArrJEB6C378MGPEIbNmGotMK38ARVeAYt2CnkIKhFMlSw4Myy2+mKu3uwaRdU/C/1TqHGm9IpnBEHp5B+QYXkC9DxPIF1WIV72II/aZKqQ9D+927jMe2+baTvVy0xcgfpQbomfoHgQSKnq3kiLfaae1bcLsTehXEXdn54RjsQI+U1QddZi73tuIRHSzewAS27fjDJN110OiiLS3tmAAAAAElFTkSuQmCC"></image>
+                    <use fill-opacity="0" fill="#444444" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

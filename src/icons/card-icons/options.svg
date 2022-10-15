@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>options</title>
+    <defs>
+        <rect x="69" y="0" width="21" height="21" id="rect-1"></rect>
+    </defs>
+    <g id="CaseStudy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g transform="translate(-646.000000, -146.000000)" id="Page">
+            <g id="Card1" transform="translate(319.000000, 119.000000)">
+                <g id="options" transform="translate(258.000000, 27.000000)">
+                    <image x="69" y="0" width="21" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAFaADAAQAAAABAAAAFQAAAAAIGxIOAAACM0lEQVQ4Ea2VPWsbQRCG705WFVcGgUiRWiAwqEiagGVEQgp3+sKN07iJk/wCk0IQ2z/A2JYbFY4boy9QoUCwsOLCTVIIDAquUwUMrpJKX35e6fa4JAqOJA/s7c7szLOzc3t7tvUPqVQqS4PBYJXpZdo8rUubo/2knff7/ZNsNnvO+C+x/7SUy+VFbHmaggsENwi+MX7FYnHBcZxn6Os0LbaRTqcvzbz636ClUumlbdvvCHqVTCbP/I7jxtVqNcGih8xtAz4yPh7UBb7FaYXMro3DXT2Zh0iijt++AQ+h7pbLAJ9OAjQLuuALdLjpS8edyGvL0wAVrzjFM9S7sGxWiWPYZIUXMswi7PgTu92B5+jYFGaB+WIL4mn7cegN34RF9uFms6kzOZRcLufUarWH6o1N8/IzunqXE7dJ+Ttbf2QmOfT7HPrX6FfBYPBJq9X6FY1GTzlqCexn7Xb7eSwWe9DpdL7gE8F+kEql3ph48bSyvhRPCFxzlUiv13sMICygbOqly44akc3nL1XSFdTbpiwEHqtHrgKBwFcy/aEMZVAvXXbNy+bzlyqZs0j3G7VZGOmj57Q1FUc81fQA1GfqWvSDpxnDyhK37JD+CQNdDvch6y7PUgkudDnMQlW8OGLoRUk2OGOH1CQ0Uid7Kk7x4ihyCNUlQNrv+Ro+TgqWP3F1TsaWOB5UAw7wMeBdHP67FNqy/AHuZTKZD+JIvPt0pA7re783vwGrH/OP6mNWue78R90CqBAfciX647wAAAAASUVORK5CYII="></image>
+                    <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

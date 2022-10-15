@@ -1,0 +1,103 @@
+.page-container{
+    padding:0 3rem;
+    width: 100%;
+    height: 100vh;
+    background-color: #F5F7F8;
+    overflow: auto;
+
+}
+
+@media only screen and (max-width: 1470px) {
+    .page-container{
+        padding:0 1rem;
+
+    }
+  }
+
+.utility-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.account-btn{
+    outline: inherit;
+    background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+    width: 4rem;
+    height: 4rem;
+}
+
+
+.filters-container{
+    display: flex;
+    gap: 1.25rem;
+    height: 5rem;
+}
+.filter{
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.filter-color-code{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+
+}
+
+.filter-color-code.published{
+    background-color: #ACACAC;
+}
+.filter-color-code.scheduled{
+    background-color: #3AC183;
+}
+.filter-color-code.need-approval{
+    background-color: #F7BF38;
+}
+.filter-color-code.error{
+    background-color: #FB6450;
+}
+.filter-color-code.notes{
+    background-color: #67B1F2;
+}
+
+.filter-btn{
+    outline: inherit;
+    background: none;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+}
+
+
+.date{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2.5rem;
+}
+
+.date-label{
+    font-family: 'Barlow Semi Condensed';
+    font-size: 22px;
+    line-height: 25px;
+    color: #959595;
+    margin-bottom: 0.75rem 
+}
+
+.date-content{
+    /* display: flex;
+    gap: 2rem;
+    flex-wrap: wrap; */
+
+    display: grid;
+
+
+        grid-template-columns: repeat(auto-fill, minmax(22rem, 1fr));
+        grid-column-gap: 24px;
+        grid-row-gap: 2rem;
+        
+}

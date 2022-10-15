@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="16px" viewBox="0 0 19 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>approve</title>
+    <defs>
+        <rect x="0" y="2" width="19" height="16" id="rect-1"></rect>
+    </defs>
+    <g id="CaseStudy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g transform="translate(-974.000000, -148.000000)" id="Page">
+            <g id="approve" transform="translate(974.000000, 146.000000)">
+                <image x="0" y="2" width="19" height="16" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAQCAYAAAD0xERiAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAE6ADAAQAAAABAAAAEAAAAABnzyp2AAABsUlEQVQ4Ea2Sv0vDUBDH+5K0EAcdOjqIOkr+ghbqplQh9AfFRatT7VJQXFxcxFEX14JLcUjbLKEuKqHg5lAcHQQnRSGD4FBbmvg9+15J2kFafZBe7u57n3xfuVDoH45hGDJh2F9YlmVNdTqdK8/zEoyxhDQpzLZtpd1uGwQihuu6ixPBAGCO45ThZo2b+QyHwzc/dx3XnaZpp5gp8rmuJEl6KpVqje2sWq0eALLPQS7cbabT6WvKWaVSmVZVtQHrj7BeLBQKXS4cCfV6fRu6C9EAqJTJZM5FrkQikSUI4ijEo9GogvcdiDwhEBGO1tErixyaYz+I6pIsy8+Iwk2+VqudUMN/4CiGYQO1/j4xVgboyK+hdwnFV3xxSzQwdAhgSeRYSA39BnKV18xer7cr+v44WFoA9tA4400XgA1FUe4xeIfaLNXxoSb+35VkMvnFdYEwgFEVQIIRlA5d/QXPHCU4D1jMRC6X++ino78BGNww0zQvydWQ9AlLGdN1/W2oHkgDe4ZreLhWHopbn+odjlZ/A5E+4EwA8KfPYKubyOfxLGez2ZboTRRpmbESC+MMfwOkDaTwSlwnoQAAAABJRU5ErkJggg=="></image>
+                <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
